@@ -1,0 +1,36 @@
+/*div{
+    padding: 15px;
+    border: 15px solid; border-color:greenyellow;
+    margin: 5%;
+}*/
+
+/*div{
+    height: 100%;
+    padding: 15px 10px 20px 10px;
+    border: 15px solid; border-color:greenyellow;
+    margin: 5% 10% 3% 10%;
+}*/
+
+.first{
+    visibility: hidden;
+    height: 500px;
+    width: 25%;
+    padding: 15px 10px 20px 10px;
+    border: 15px solid; border-color:greenyellow;
+    margin: 5% 10% 3% 10%;
+}
+
+div{
+    display: inline-block;
+    width: 25%;
+    padding: 15px 10px 20px 10px;
+    border: 15px solid; border-color:greenyellow;
+    margin: 5% 10% 3% 10%;
+}
+
+div:hover{
+    border-color: blue;
+}
+
+
+
